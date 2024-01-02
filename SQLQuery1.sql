@@ -1,0 +1,1 @@
+﻿insert into Customer(Name,Email,[Password],MobileNumber) values('Alisha jahan Abdiya','abdiya@gmail.com','1234','01971318359')

@@ -39,7 +39,7 @@
 
 ## Supplier Home Page
 <img width="472" height="386" alt="Picture9" src="https://github.com/user-attachments/assets/890ca08b-1492-418e-8595-ccffe4f0af20" />
-## Admin Panel
+##  Admin Panel
 <img width="624" height="326" alt="p1" src="https://github.com/user-attachments/assets/4d48dcaa-ad09-430c-9f67-29ccada7ad6c" />
 
 ## Mange Inventory

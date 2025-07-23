@@ -30,7 +30,6 @@
 
 ## Sign Up: For Customer
 <img width="406" height="344" alt="Picture5" src="https://github.com/user-attachments/assets/74a64348-7d2e-4d9c-ae9b-40694024ee58" />
-![Picture6](https://github.com/user-attachments/assets/ac1d903d-35be-4e4a-b5a1-5868938c91cf)
 
 ## Customer Order History
 <img width="458" height="376" alt="Picture7" src="https://github.com/user-attachments/assets/31b093a6-80c6-427c-8025-d8de203b3ed5" />

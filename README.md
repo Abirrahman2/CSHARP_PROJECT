@@ -40,12 +40,13 @@
 ## Supplier Home Page
 <img width="472" height="386" alt="Picture9" src="https://github.com/user-attachments/assets/890ca08b-1492-418e-8595-ccffe4f0af20" />
 ## Admin Panel
-![Picture10](https://github.com/user-attachments/assets/bf861210-c429-480b-a696-cb5bf57780d4)
+<img width="624" height="326" alt="p1" src="https://github.com/user-attachments/assets/4d48dcaa-ad09-430c-9f67-29ccada7ad6c" />
 
 ## Mange Inventory
 <img width="594" height="409" alt="Pictur11" src="https://github.com/user-attachments/assets/ba6e09a6-6cbb-400a-9bb9-da782a4e6bd9" />
-![Picture12](https://github.com/user-attachments/assets/c1724600-f48c-4899-9456-4dfefea02740)
-![Picture13](https://github.com/user-attachments/assets/0c55abb3-9497-4a5d-aa5c-768279c4468d)
+<img width="624" height="325" alt="p2" src="https://github.com/user-attachments/assets/2b893191-b7b9-44a7-81df-2cd2a2d801ff" />
+
+
 
 
 
